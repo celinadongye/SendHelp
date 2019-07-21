@@ -23,4 +23,4 @@ Our website is a masterpiece, despite the fact that Celina and Muyao were new to
 We have learned a lot, both in web development and in the usage of API, which we previously found foreign. We also learned the importance of dividing a project so as to be more efficient when working together.
 
 ## What’s Next For ‘Send Help!’
-The next step for ‘Send Help!’ is to use Machine Learning to identify recent natural disasters in the world from online news websites and add them to the map. :)
+The next step for ‘Send Help!’ is to use Machine Learning to identify recent natural disasters in the world from online news websites and add them to the map.
