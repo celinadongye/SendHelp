@@ -1,4 +1,4 @@
-# SendHelp
+# HackCambridge 4D 2019
 
 Devpost submission: https://devpost.com/software/send-help
 
